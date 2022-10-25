@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "925318595337",
+    "project_id": "angel-car",
+    "storage_bucket": "angel-car.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925318595337:android:df31fa56ae5dd78e5449d8",
+        "android_client_info": {
+          "package_name": "br.app.kera.angel_car"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "925318595337-hke4diluo3peib5obaocddeh4ljbm4ig.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.app.kera.angel_car",
+            "certificate_hash": "8f0d2d4687bbe3779c92e4f7fb2c2d3c4d8d6c87"
+          }
+        },
+        {
+          "client_id": "925318595337-q6l7eg7dcf702qj33f71eueiss1jv04v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC69rmRbq1HERaxy5jYzHZc3Y5REZSrQ2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "925318595337-q6l7eg7dcf702qj33f71eueiss1jv04v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
